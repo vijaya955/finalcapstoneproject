@@ -1,4 +1,4 @@
-# Bus Reservation System — Frontend
+# Bus Reservation System
 
 A React-based frontend for a Bus Reservation System that supports two roles: ADMIN and PASSENGER. Admins can manage buses, stops, and journeys; passengers can register, log in, book journeys, and manage their wallet.
 

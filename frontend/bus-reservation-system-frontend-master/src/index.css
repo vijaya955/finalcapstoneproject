@@ -1,0 +1,76 @@
+/* === Colors === */
+.custom-bg {
+  background-color: #fef3c7; 
+  
+}
+
+.text-color {
+  color: #212121; /* Standard dark text */
+}
+
+.text-color1 {
+  color: #00BCD4; /* Bright Cyan */
+}
+
+.text-color-4 {
+  color: #0288D1; /* Deep Cyan for links */
+}
+
+.text-lightblue {
+  color: #2196F3; /* Light Blue Text */
+}
+
+.border-color {
+  border-color: #E0E0E0; /* Light Gray */
+}
+
+.border-lightblue {
+  border-color: #BBDEFB; /* Light Blue border */
+}
+
+.custom-bg-text {
+  color: #FFFFFF; /* White text for contrast */
+}
+
+.bg-color {
+  background-color: #FFE0B2; /* Soft Warm Orange */
+}
+
+.bg-lightblue {
+  background-color: #E3F2FD; /* Very Light Blue background */
+}
+
+/* === Cards & Components === */
+.rounded-card {
+  padding: 1.5em .5em .5em;
+  border-radius: 1.5em;
+  background: #FFFFFF;
+  box-shadow: 0 4px 12px rgba(255, 152, 0, .35); /* Orange glow */
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.form-card {
+  padding: 1em;
+  border-radius: 1em;
+  background: #FFFFFF;
+  box-shadow: 0 3px 8px rgba(0, 188, 212, .35); /* Cyan glow */
+}
+
+.lightblue-card {
+  padding: 1em;
+  border-radius: 1em;
+  background: #FFFFFF;
+  box-shadow: 0 3px 8px rgba(33, 150, 243, .35); /* Light Blue glow */
+}
+
+.card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover,
+.rounded-card:hover,
+.form-card:hover,
+.lightblue-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, .25);
+}

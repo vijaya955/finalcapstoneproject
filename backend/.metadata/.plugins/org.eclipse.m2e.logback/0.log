@@ -1,0 +1,33 @@
+2025-09-03 09:35:04,771 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-09-03 09:36:35,983 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.busreservation:bus-reservation-system:0.0.1-SNAPSHOT @ C:\Users\HP\Desktop\bus-reservation-system-backend-master\bus-reservation-system-backend-master\pom.xml.
+2025-09-03 09:36:42,219 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bus-reservation-system-backend-master/src/main/java
+2025-09-03 09:36:42,237 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bus-reservation-system-backend-master/src/main/resources
+2025-09-03 09:36:42,264 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bus-reservation-system-backend-master/src/main/resources
+2025-09-03 09:36:42,299 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bus-reservation-system-backend-master/src/test/java
+2025-09-03 09:36:42,304 [Worker-4: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bus-reservation-system-backend-master/src/test/resources
+2025-09-03 09:36:46,457 [Worker-4: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2025-09-03 09:36:56,649 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-03 09:36:56,726 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-03 09:36:56,795 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\Desktop\bus-reservation-system-backend-master\bus-reservation-system-backend-master\src\test\resources
+2025-09-03 09:37:32,310 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-03 09:37:32,393 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-09-03 09:37:32,413 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\Desktop\bus-reservation-system-backend-master\bus-reservation-system-backend-master\src\test\resources
+2025-09-03 10:09:04,542 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-09-03 10:09:06,645 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.busreservation:bus-reservation-system:0.0.1-SNAPSHOT @ C:\Users\HP\Desktop\bus-reservation-system-backend-master\bus-reservation-system-backend-master\pom.xml.
+2025-09-03 10:09:10,036 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bus-reservation-system-backend-master/src/main/java
+2025-09-03 10:09:10,038 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bus-reservation-system-backend-master/src/main/resources
+2025-09-03 10:09:10,039 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bus-reservation-system-backend-master/src/main/resources
+2025-09-03 10:09:10,040 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bus-reservation-system-backend-master/src/test/java
+2025-09-03 10:09:10,042 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bus-reservation-system-backend-master/src/test/resources
+2025-09-03 10:09:11,388 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 5.00 sec, update config takes 0.00 sec 
+2025-09-03 10:09:20,000 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-03 10:09:20,058 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-03 10:09:20,205 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\Desktop\bus-reservation-system-backend-master\bus-reservation-system-backend-master\src\test\resources
+2025-09-03 10:10:27,240 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-09-03 10:11:09,698 [Worker-5: Launching BusReservationSystemApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-03 10:11:09,770 [Worker-5: Launching BusReservationSystemApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-03 10:11:09,822 [Worker-5: Launching BusReservationSystemApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\Desktop\bus-reservation-system-backend-master\bus-reservation-system-backend-master\src\test\resources
+2025-09-03 18:18:59,580 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-09-03 18:20:26,770 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-09-03 18:20:27,173 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-09-03 18:20:27,246 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\HP\Desktop\bus-reservation-system-backend-master\bus-reservation-system-backend-master\src\test\resources
